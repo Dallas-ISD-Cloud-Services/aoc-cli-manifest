@@ -1,0 +1,10 @@
+{
+  "_comment": "This file is hosted on GitHub. Edit MinimumVersion to remotely block old builds. No recompile needed.",
+  "MinimumVersion": "1.5.0",
+  "LatestVersion": "1.5.0",
+  "ForceBlockBelow": "1.0.0",
+  "Message": "A required update is available. Contact Cloud Systems or your supervisor to get the latest version.",
+  "DownloadInfo": "Request the latest AOC-CLI.exe from the Cloud Systems team.",
+  "UpdatedDate": "2026-03-14",
+  "UpdatedBy": "Cloud Systems"
+}
