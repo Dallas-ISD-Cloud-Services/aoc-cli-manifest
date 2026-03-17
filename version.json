@@ -1,7 +1,7 @@
 {
   "_comment": "This file is hosted on GitHub. Edit MinimumVersion to remotely block old builds. No recompile needed.",
-  "MinimumVersion": "1.6.7",
-  "LatestVersion": "1.6.7",
+  "MinimumVersion": "1.6.8",
+  "LatestVersion": "1.6.8",
   "ForceBlockBelow": "1.0.0",
   "Message": "A required update is available. Contact Cloud Systems or your supervisor to get the latest version.",
   "DownloadInfo": "Request the latest AOC-CLI.exe from the Cloud Systems team.",
