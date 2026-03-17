@@ -4,7 +4,7 @@
   "MinimumVersion": "1.7.1",
   "LatestVersion": "1.7.1",
   "ForceBlockBelow": "1.0.0",
-  "Disabled": true,
+  "Disabled": false,
   "DisabledMessage": "AOC-CLI has been temporarily disabled by Cloud Services. Please contact your supervisor.",
   "Message": "A required update is available. Contact Cloud Services or your supervisor to get the latest version.",
   "DownloadInfo": "Request the latest AOC-CLI.exe from the Cloud Services team.",
