@@ -3,11 +3,11 @@
   "_comment2": "Kill switch: set Disabled=true to block ALL versions immediately regardless of version number.",
   "MinimumVersion": "2.2.2.0",
   "LatestVersion": "2.2.2.0",
-  "ForceBlockBelow": "2.1.9.0",
+  "ForceBlockBelow": "2.2.2.0",
   "Disabled": false,
   "DisabledMessage": "AOC-CLI has been temporarily disabled by Cloud Services. Please contact your supervisor.",
   "Message": "A required update is available. Contact Cloud Services or your supervisor to get the latest version.",
-  "DownloadInfo": "Request the latest AOC-CLI_v2.1.9.0.exe from the Cloud Services team.",
+  "DownloadInfo": "Request the latest AOC-CLI_v2.2.2.0.exe from the Cloud Services team.",
   "UpdatedDate": "2026-05-26",
   "UpdatedBy": "Cloud Services"
 }
