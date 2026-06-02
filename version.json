@@ -1,13 +1,13 @@
 {
   "_comment": "This file is hosted on GitHub. Edit MinimumVersion to remotely block old builds. No recompile needed.",
   "_comment2": "Kill switch: set Disabled=true to block ALL versions immediately regardless of version number.",
-  "MinimumVersion": "2.2.4",
-  "LatestVersion": "2.2.4",
-  "ForceBlockBelow": "2.2.4",
+  "MinimumVersion": "2.2.5.4",
+  "LatestVersion": "2.2.5.4",
+  "ForceBlockBelow": "2.2.5.4",
   "Disabled": false,
   "DisabledMessage": "AOC-CLI has been temporarily disabled by Cloud Services. Please contact your supervisor.",
   "Message": "A required update is available. Contact Cloud Services or your supervisor to get the latest version.",
-  "DownloadInfo": "Request the latest AOC-CLI_v2.2.4.exe from the Cloud Services team.",
-  "UpdatedDate": "2026-05-29",
+  "DownloadInfo": "Request the latest AOC-CLI_v2.2.5.4.exe from the Cloud Services team.",
+  "UpdatedDate": "2026-06-02",
   "UpdatedBy": "Cloud Services"
 }
